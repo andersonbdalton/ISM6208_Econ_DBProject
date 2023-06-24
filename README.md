@@ -1,6 +1,8 @@
 # ISM6208_Econ_DBProject
 Comprehensive data warehousing project focused on economic data analysis. Real-world economic challenge addressed through dimensional modeling, data collection, ETL, and visualization.
 
+[SQL code below listed here](https://github.com/repneuable/ISM6208_Econ_DBProject/tree/main/SQL)
+
 ## Entity Relationship Diagram (ERD)
 ![ERD](https://i.imgur.com/Uj8i0Ai.png)
 
