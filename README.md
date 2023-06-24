@@ -4,6 +4,15 @@ Comprehensive data warehousing project focused on economic data analysis. Real-w
 ## Entity Relationship Diagram (ERD)
 ![ERD](https://i.imgur.com/Uj8i0Ai.png)
 
+## Quarterly Growth Rate and Recessions
+![Quarterly Growth Rate and Recessions](https://i.imgur.com/k5fljYA.png)
+
+## Unemployment Rates compared to Recessions
+![Unemployment compared to recessions](https://i.imgur.com/TMUI26H.png)
+
+## Effect of Quantitative Easing on Federal Debt
+![Effect of Quantitative Easing on Federal Debt](https://i.imgur.com/LkOfvAk.png)
+
 ## Merging common tables
 ![SQL sample 2](https://i.imgur.com/4KVHpmB.png)
 
